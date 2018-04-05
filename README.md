@@ -23,6 +23,6 @@
 <h3 id="notes">Notes</h3>
 <p>HTTP.sys can be configured with PowerShell commands but it is easier to use HttpSysManager from the link below.<br>
 <a href="https://www.codeproject.com/Articles/437733/Demystify-http-sys-with-HttpSysManager">https://www.codeproject.com/Articles/437733/Demystify-http-sys-with-HttpSysManager</a></p>
-<p><img alt="HttpSysManager1" src="https://github.com/gdevin/Get-ADtokenGroups/blob/master/HttpSysManager1.JPG"></p>
-<p><img alt="HttpSysManager2" src="https://github.com/gdevin/Get-ADtokenGroups/blob/master/HttpSysManager2.JPG"></p>
+<p><img alt="HttpSysManager1" src="https://github.com/gdevin/Get-ADtokenGroups/blob/master/Images/HttpSysManager1.JPG"></p>
+<p><img alt="HttpSysManager2" src="https://github.com/gdevin/Get-ADtokenGroups/blob/master/Images/HttpSysManager2.JPG"></p>
 
